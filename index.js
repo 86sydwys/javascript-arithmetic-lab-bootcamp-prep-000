@@ -1,8 +1,14 @@
 
-
+function add()
 add(1 + 80) // 81
+
+function subtract()
 subtract(60 - 40) // 20
+
+function multiply()
 multiply(2 * 3.4) // 6.8 
+
+function divide()
 divide(5.0 / 2.5)// 2
 
 
