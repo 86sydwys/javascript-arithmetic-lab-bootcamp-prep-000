@@ -1,6 +1,7 @@
 
 function add(a,b)
-return 
+return a + b
+
 function subtract()
 subtract(60 - 40) // 20
 
