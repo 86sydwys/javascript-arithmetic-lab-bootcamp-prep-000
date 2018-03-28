@@ -3,14 +3,14 @@ function add(a,b){
 return a + b;
 }
 function subtract(a,b){
-return a - b
-
-function multiply(a,b){
-mreturn a * b 
+return a - b;
 }
-function divide()
-divide(5.0 / 2.5)// 2
-
+function multiply(a,b){
+return a * b; 
+}
+function divide(a,b){
+return a / b;
+}
 
 var number = 5
  
