@@ -3,11 +3,11 @@ function add(a,b){
 return a + b;
 }
 function subtract(a,b){
-subtract(60 - 40) // 20
+return a - b
 
-function multiply()
-multiply(2 * 3.4) // 6.8 
-
+function multiply(a,b){
+mreturn a * b 
+}
 function divide()
 divide(5.0 / 2.5)// 2
 
